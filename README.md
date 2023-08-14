@@ -1,2 +1,3 @@
 # git_test
 this is my first repo XD
+Hello Odin!
